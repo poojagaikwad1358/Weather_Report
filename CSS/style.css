@@ -1,0 +1,25 @@
+body {
+  font-family: Raleway;
+  display: flex;
+  height: 100vh;
+  background-repeat: no-repeat;
+  justify-content: center;  
+  background-image: url('https://images.unsplash.com/photo-1696506473897-c9db767a3c51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+  background-size: cover;
+  color: rgb(190, 190, 190);
+}
+
+.card {
+  opacity: 0.9
+}
+
+input:focus {
+  outline: none;
+
+}
+
+
+button {
+  font-family: "Trirong", serif;
+  margin-left: -5px;
+}
